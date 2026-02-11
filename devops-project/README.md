@@ -9,3 +9,5 @@ This project demonstrates basic usage of:
 - Bash scripting
 
 It is part of my DevOps learning path.
+Main branch update: project is stable.
+
