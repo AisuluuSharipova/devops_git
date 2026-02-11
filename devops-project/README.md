@@ -11,4 +11,5 @@ This project demonstrates basic usage of:
 It is part of my DevOps learning path.
 Main branch update: project is stable.
 Feature branch update: new changes coming.
+Main update: final stable version.
 
